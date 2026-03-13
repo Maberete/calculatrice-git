@@ -1,1 +1,10 @@
-Ma calculatrice : J'espere y'aura grand conflit
+<<<<<<< HEAD
+Ma calculatrice
+=======
+# Calculatrice Git
+## Authentification
+
+Le module 'auth.py' gere la connexion des utilisateurs.
+- 'login(username, password)' -> verifie les identifiants
+- 'logout(username)' -> retourne un message de deconnexion
+>>>>>>> feature/auth
